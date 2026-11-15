@@ -31,6 +31,8 @@
 | [趣猿 GEO](https://geo.aionclaw.com/) | 品牌 AI 可见度诊断与优化平台，查看豆包、DeepSeek、元宝等 AI 如何提及、排序和引用品牌，并据此补内容与信源。 |
 | [微盟星启](https://geo.weimob.com/) | 企业 GEO 增长服务，覆盖品牌诊断、内容优化、全域分发和持续监测。 |
 | [NiubiGEO](https://niubigeo.ai/) | 产品 AI 可见度诊断服务，检查 ChatGPT、Claude、Gemini、Perplexity 如何理解、推荐和引用产品，并衔接人工测试与内容分发。 |
+| [引潮 GEO](https://www.ycseo.cn/) | GEO 优化服务，覆盖基线诊断、实体信息统一、结构化数据、内容资产、外部信源和效果复测。 |
+| [麦豆 GEO](https://maidouai.com/) | 免费 GEO 监测与优化平台，监测豆包、DeepSeek、千问、元宝、文心中的品牌可见度、情感和竞品，并给出优化建议。 |
 
 ## 开源
 
