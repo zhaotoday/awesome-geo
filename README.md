@@ -1,10 +1,13 @@
 # GEO 资源
 
-## 文档
+## 学习资料
 
 - [GEO 优化完整指南](GEO优化完整指南/README.md)：面向品牌、内容和增长团队的落地手册，从主体定档、问题词、监测、信源到官网优化和复盘。
 - [GEO 实战手册](GEO实战手册/README.md)：写给企业主和运营的实操手册，覆盖事实卡、信源、官网、分平台要点和 90 天路线。
 - [GEO 内容生产与分发指南](GEO内容生产与分发指南/README.md)：说明用 AI 批量生成再软件分发为什么失效，以及选词、素材、生产和分发该怎么改。
+- [geo-book](https://github.com/JingHao-Leon/geo-book) ★7：六大国产 AI 引擎实测写成的 GEO 中文实战手册。
+- [cn-seo-geo-atlas](https://github.com/LLM-X-Factorer/cn-seo-geo-atlas) ★0：中文互联网 SEO 与 GEO 技术调研图谱，整理跨平台技术卡和可核验的研究判断。
+- [GEO 教程中心](https://www.georankhub.com/tutorial)：GEORankHub 的教程汇总，覆盖 GEO 认知、AI 原理、内容优化、页面技术、策略执行、评估治理与案例。
 
 ## 网站
 
@@ -22,13 +25,7 @@
 
 ## 开源
 
-按项目 README 中的主要用途分类；同一分类内按 GitHub star 从高到低排列（截至 2026-11-15）。跨类别项目仅收录一次。学习资料可收录教程页面，其余仅收录 GitHub 仓库。
-
-### 学习资料
-
-- [geo-book](https://github.com/JingHao-Leon/geo-book) ★7：六大国产 AI 引擎实测写成的 GEO 中文实战手册。
-- [cn-seo-geo-atlas](https://github.com/LLM-X-Factorer/cn-seo-geo-atlas) ★0：中文互联网 SEO 与 GEO 技术调研图谱，整理跨平台技术卡和可核验的研究判断。
-- [GEO 教程中心](https://www.georankhub.com/tutorial)：GEORankHub 的教程汇总，覆盖 GEO 认知、AI 原理、内容优化、页面技术、策略执行、评估治理与案例。
+按项目 README 中的主要用途分类；同一分类内按 GitHub star 从高到低排列（截至 2026-11-15）。跨类别项目仅收录一次。仅收录 GitHub 仓库。
 
 ### 综合 GEO 平台
 
