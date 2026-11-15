@@ -12,6 +12,13 @@
 - [GEOloop 商业白皮书](https://geoloopos.com/whitepaper/)：GEOloopOS 的 AI 可见度闭环方法论，涵盖实体认知、可见度评分与持续优化实验。
 - [超算 GEO](https://chaosuangeo.com/)：AI 搜索品牌增长平台，覆盖品牌检测、多平台对比、知识库、内容创作与媒体发布。
 
+## GEO 服务网站
+
+- [飞柚 GEO](https://www.feiyougeo.cn/)：GEO 优化服务商，覆盖豆包、Kimi、DeepSeek、ChatGPT 等 AI 搜索的内容优化、技术部署与效果监测。
+- [搜搜果](https://www.sousougeo.com/)：GEO 监测平台，检测品牌在 DeepSeek、豆包、千问、元宝、文心等 AI 搜索中的可见度、排名与口碑，并生成分析报告。
+- [5158GEO](https://www.5158.com.cn/)：GEO 优化服务商，覆盖豆包、文心一言、DeepSeek、腾讯元宝等平台的问法拆解、内容分发与品牌提及监测。
+- [达准源](https://dzygeo.com/)：GEO 监测与诊断平台，向多个 AI 引擎复测品牌提及率、推荐排名和口碑，并提供知识图谱与诊断报告。
+
 ## 开源
 
 按项目 README 中的主要用途分类；同一分类内按 GitHub star 从高到低排列（截至 2026-11-15）。跨类别项目仅收录一次。仅收录 GitHub 仓库，不包含独立网站及白皮书页面。
