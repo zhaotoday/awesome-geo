@@ -10,6 +10,8 @@
 | [geo-book](https://github.com/JingHao-Leon/geo-book) | 7 | 六大国产 AI 引擎实测写成的 GEO 中文实战手册。 |
 | [cn-seo-geo-atlas](https://github.com/LLM-X-Factorer/cn-seo-geo-atlas) | 0 | 中文互联网 SEO 与 GEO 技术调研图谱，整理跨平台技术卡和可核验的研究判断。 |
 | [GEO 教程中心](https://www.georankhub.com/tutorial) | | GEORankHub 的教程汇总，覆盖 GEO 认知、AI 原理、内容优化、页面技术、策略执行、评估治理与案例。 |
+| [GEO 白皮书](https://yaojingang.feishu.cn/docx/Jv85dXAeZoKJ7exJi4Yc4Edrnhf) | | AI 搜索营销科普文档，说明生成式引擎优化如何让品牌被 AI 理解、引用和推荐。 |
+| [姚金刚提示词合集](https://yaojingang.feishu.cn/docx/ER4rdSlvcofCtQxttSac2Xc4nGd) | | 长期维护的提示词资料，覆盖写作、分析、整理和工作流等可复用提示词。 |
 
 ## 网站
 
