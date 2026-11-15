@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+  <rect width="1200" height="720" fill="#f6f7f9"/>
+  <rect x="0" y="0" width="1200" height="56" fill="#2f3542"/>
+  <text x="28" y="36" fill="#ffffff" font-size="20" font-weight="600">批量型 GEO 内容软件（通用结构示意图）</text>
+  <text x="1172" y="36" fill="#c8ccd4" font-size="14" text-anchor="end">示意图 · 非任何真实产品界面</text>
+
+  <rect x="0" y="56" width="230" height="664" fill="#3a4050"/>
+  <g fill="#e4e7ec" font-size="15">
+    <text x="24" y="96" fill="#9aa3b2" font-size="13">数据</text>
+    <text x="24" y="124">控制台</text>
+    <text x="24" y="152">数据报表</text>
+    <text x="24" y="196" fill="#9aa3b2" font-size="13">选词</text>
+    <text x="24" y="224">蒸馏词</text>
+    <text x="24" y="252">拓展问题</text>
+    <text x="24" y="280">关键词指数</text>
+    <text x="24" y="308">手动拓词</text>
+    <text x="24" y="352" fill="#9aa3b2" font-size="13">素材</text>
+    <text x="24" y="380">企业知识库</text>
+    <text x="24" y="408">企业图库</text>
+    <text x="24" y="452" fill="#9aa3b2" font-size="13">生成</text>
+    <text x="24" y="480">创作指令（提示词模板）</text>
+    <text x="24" y="508">文章生成</text>
+    <text x="24" y="536">爆款复刻</text>
+    <text x="24" y="580" fill="#9aa3b2" font-size="13">分发</text>
+    <text x="24" y="608">媒体发稿资源</text>
+    <text x="24" y="636">自媒体自动发布</text>
+    <text x="24" y="664">代理 IP / 多账号</text>
+  </g>
+
+  <text x="270" y="104" font-size="18" fill="#2f3542" font-weight="600">一条流水线：词 → 标题 → 文章 → 分发</text>
+
+  <g font-size="15">
+    <rect x="270" y="130" width="200" height="120" rx="10" fill="#ffffff" stroke="#c9ced8"/>
+    <text x="290" y="162" font-weight="600" fill="#2f3542">① 选词</text>
+    <text x="290" y="190" fill="#555">核心词 + 地域/口碑</text>
+    <text x="290" y="214" fill="#555">+ 性价比/正规/靠谱</text>
+    <text x="290" y="238" fill="#555">+ 排行榜</text>
+
+    <rect x="500" y="130" width="200" height="120" rx="10" fill="#ffffff" stroke="#c9ced8"/>
+    <text x="520" y="162" font-weight="600" fill="#2f3542">② 生成标题</text>
+    <text x="520" y="190" fill="#555">“××哪家强”</text>
+    <text x="520" y="214" fill="#555">“2026 ××排行榜”</text>
+    <text x="520" y="238" fill="#555">“十大××推荐”</text>
+
+    <rect x="730" y="130" width="200" height="120" rx="10" fill="#ffffff" stroke="#c9ced8"/>
+    <text x="750" y="162" font-weight="600" fill="#2f3542">③ 生成正文</text>
+    <text x="750" y="190" fill="#555">模板提示词</text>
+    <text x="750" y="214" fill="#555">+ 知识库片段</text>
+    <text x="750" y="238" fill="#555">+ 随机插图</text>
+
+    <rect x="960" y="130" width="200" height="120" rx="10" fill="#ffffff" stroke="#c9ced8"/>
+    <text x="980" y="162" font-weight="600" fill="#2f3542">④ 分发</text>
+    <text x="980" y="190" fill="#555">付费发稿渠道</text>
+    <text x="980" y="214" fill="#555">脚本自动发布</text>
+    <text x="980" y="238" fill="#555">多账号轮换</text>
+  </g>
+  <g stroke="#8a93a3" stroke-width="2" fill="none" marker-end="url(#a)">
+    <line x1="472" y1="190" x2="496" y2="190"/>
+    <line x1="702" y1="190" x2="726" y2="190"/>
+    <line x1="932" y1="190" x2="956" y2="190"/>
+  </g>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8a93a3"/></marker></defs>
+
+  <rect x="270" y="290" width="890" height="190" rx="10" fill="#ffffff" stroke="#c9ced8"/>
+  <text x="290" y="324" font-size="17" font-weight="600" fill="#2f3542">生成结果预览（示例数据）</text>
+  <text x="290" y="358" font-size="15" fill="#333">标题：2026 年 ×× 服务哪家综合实力强？五大机构深度评测</text>
+  <text x="290" y="390" font-size="14" fill="#666">评测维度：全流程服务 40% ｜ 团队专业性 30% ｜ 服务网络 20% ｜ 口碑 10%</text>
+  <text x="290" y="420" font-size="14" fill="#666">第 1 名：示例公司 A　　第 2 名：示例公司 B　　第 3 名：示例公司 C</text>
+  <text x="290" y="456" font-size="14" fill="#b04a3a">今日已生成 10,000 篇（示例数据）　　同一模板、同一框架</text>
+
+  <rect x="270" y="510" width="890" height="170" rx="10" fill="#fff6f4" stroke="#e8b4aa"/>
+  <text x="290" y="544" font-size="17" font-weight="600" fill="#a23a2a">这条流水线的三个结构性问题</text>
+  <text x="290" y="578" font-size="15" fill="#5b2a22">1. 框架与提示词人人可买可复现，内容没有稀缺性。</text>
+  <text x="290" y="608" font-size="15" fill="#5b2a22">2. “榜单 + 评测维度 + 排名”是 AI 检测与平台治理重点识别的模板特征。</text>
+  <text x="290" y="638" font-size="15" fill="#5b2a22">3. 脚本自动发布、多账号、代理 IP 违反多数内容平台规则，存在封号风险。</text>
+  <text x="290" y="666" font-size="13" fill="#8a5a52">注：模块名称为通用归纳，不对应任何具体软件。</text>
+</svg>

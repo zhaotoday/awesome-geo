@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+  <rect width="1200" height="640" fill="#f6f7f9"/>
+  <rect x="0" y="0" width="1200" height="56" fill="#33415c"/>
+  <text x="28" y="36" fill="#ffffff" font-size="20" font-weight="600">AI 内容检测结果页（通用示意图）</text>
+  <text x="1172" y="36" fill="#c8d0e0" font-size="14" text-anchor="end">示意图 · 图中数字均为示例数据</text>
+
+  <rect x="40" y="86" width="540" height="500" rx="12" fill="#ffffff" stroke="#cfd5e0"/>
+  <text x="64" y="122" font-size="17" font-weight="600" fill="#33415c">待测文本 A：模板化榜单文</text>
+  <circle cx="190" cy="270" r="96" fill="none" stroke="#e5e8ee" stroke-width="26"/>
+  <circle cx="190" cy="270" r="96" fill="none" stroke="#d0573f" stroke-width="26" stroke-dasharray="603 603" transform="rotate(-90 190 270)"/>
+  <text x="190" y="264" font-size="34" font-weight="700" fill="#d0573f" text-anchor="middle">AI 特征</text>
+  <text x="190" y="302" font-size="26" fill="#d0573f" text-anchor="middle">高</text>
+  <g font-size="15" fill="#333">
+    <rect x="330" y="200" width="16" height="16" fill="#d0573f"/><text x="354" y="214">AI 特征　约 100%</text>
+    <rect x="330" y="236" width="16" height="16" fill="#e8b04a"/><text x="354" y="250">疑似　　约 0%</text>
+    <rect x="330" y="272" width="16" height="16" fill="#4c9a6a"/><text x="354" y="286">人工特征 约 0%</text>
+  </g>
+  <text x="64" y="414" font-size="14" fill="#666">命中特征（示例）：</text>
+  <text x="64" y="440" font-size="14" fill="#666">· “综合实力 / 深度评测 / 排名”固定句式</text>
+  <text x="64" y="464" font-size="14" fill="#666">· 百分比权重表 + 前三名排序</text>
+  <text x="64" y="488" font-size="14" fill="#666">· 无可核验来源、无具体人物和经历</text>
+  <text x="64" y="548" font-size="13" fill="#999">检测结果仅供参考，不能单独作为判定依据</text>
+
+  <rect x="620" y="86" width="540" height="500" rx="12" fill="#ffffff" stroke="#cfd5e0"/>
+  <text x="644" y="122" font-size="17" font-weight="600" fill="#33415c">待测文本 B：带业务佐证的一手经验文</text>
+  <circle cx="770" cy="270" r="96" fill="none" stroke="#e5e8ee" stroke-width="26"/>
+  <circle cx="770" cy="270" r="96" fill="none" stroke="#4c9a6a" stroke-width="26" stroke-dasharray="420 603" transform="rotate(-90 770 270)"/>
+  <circle cx="770" cy="270" r="96" fill="none" stroke="#e8b04a" stroke-width="26" stroke-dasharray="120 603" stroke-dashoffset="-420" transform="rotate(-90 770 270)"/>
+  <text x="770" y="264" font-size="30" font-weight="700" fill="#4c9a6a" text-anchor="middle">人工特征</text>
+  <text x="770" y="302" font-size="26" fill="#4c9a6a" text-anchor="middle">为主</text>
+  <g font-size="15" fill="#333">
+    <rect x="910" y="200" width="16" height="16" fill="#d0573f"/><text x="934" y="214">AI 特征　较低</text>
+    <rect x="910" y="236" width="16" height="16" fill="#e8b04a"/><text x="934" y="250">疑似　　部分</text>
+    <rect x="910" y="272" width="16" height="16" fill="#4c9a6a"/><text x="934" y="286">人工特征 为主</text>
+  </g>
+  <text x="644" y="414" font-size="14" fill="#666">内容特征（示例）：</text>
+  <text x="644" y="440" font-size="14" fill="#666">· 具体项目经过、时间、遇到的问题和解决办法</text>
+  <text x="644" y="464" font-size="14" fill="#666">· 引用自家可公开的合同条款、报价口径、照片</text>
+  <text x="644" y="488" font-size="14" fill="#666">· 写清适用条件和不适用的情况</text>
+  <text x="644" y="548" font-size="13" fill="#999">检测可能误判：手写内容也可能被标为“疑似”</text>
+</svg>
