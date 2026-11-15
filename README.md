@@ -28,6 +28,9 @@
 | [搜搜果](https://www.sousougeo.com/) | GEO 监测平台，检测品牌在 DeepSeek、豆包、千问、元宝、文心等 AI 搜索中的可见度、排名与口碑，并生成分析报告。 |
 | [5158GEO](https://www.5158.com.cn/) | GEO 优化服务商，覆盖豆包、文心一言、DeepSeek、腾讯元宝等平台的问法拆解、内容分发与品牌提及监测。 |
 | [达准源](https://dzygeo.com/) | GEO 监测与诊断平台，向多个 AI 引擎复测品牌提及率、推荐排名和口碑，并提供知识图谱与诊断报告。 |
+| [趣猿 GEO](https://geo.aionclaw.com/) | 品牌 AI 可见度诊断与优化平台，查看豆包、DeepSeek、元宝等 AI 如何提及、排序和引用品牌，并据此补内容与信源。 |
+| [微盟星启](https://geo.weimob.com/) | 企业 GEO 增长服务，覆盖品牌诊断、内容优化、全域分发和持续监测。 |
+| [NiubiGEO](https://niubigeo.ai/) | 产品 AI 可见度诊断服务，检查 ChatGPT、Claude、Gemini、Perplexity 如何理解、推荐和引用产品，并衔接人工测试与内容分发。 |
 
 ## 开源
 
