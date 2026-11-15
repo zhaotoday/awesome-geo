@@ -11,6 +11,9 @@
 | [cn-seo-geo-atlas](https://github.com/LLM-X-Factorer/cn-seo-geo-atlas) | 0 | 中文互联网 SEO 与 GEO 技术调研图谱，整理跨平台技术卡和可核验的研究判断。 |
 | [GEO 教程中心](https://www.georankhub.com/tutorial) | | GEORankHub 的教程汇总，覆盖 GEO 认知、AI 原理、内容优化、页面技术、策略执行、评估治理与案例。 |
 | [GEO 白皮书](https://yaojingang.feishu.cn/docx/Jv85dXAeZoKJ7exJi4Yc4Edrnhf) | | AI 搜索营销科普文档，说明生成式引擎优化如何让品牌被 AI 理解、引用和推荐。 |
+| [GEO 红皮书](https://yaojingang.feishu.cn/wiki/Otqtw0HFbiNeCMkjKalcFkoJnpf) | | 生成式引擎优化的伦理边界、作弊风险与治理手册。 |
+| [GEO 蓝皮书](https://yaojingang.feishu.cn/wiki/MwkiwPDqCiHGwVk2uOtcNUlrnnf) | | 企业与 GEO 服务商合作评估指南，覆盖立项、基线、比选、合同和验收。 |
+| [GEO 提示词合集](https://yaojingang.feishu.cn/wiki/YbMLwkChmiktbskRoHZcFixBnxb) | | GEO 书籍配套提示词，可按主题直接调用、改写和延伸。 |
 | [姚金刚提示词合集](https://yaojingang.feishu.cn/docx/ER4rdSlvcofCtQxttSac2Xc4nGd) | | 长期维护的提示词资料，覆盖写作、分析、整理和工作流等可复用提示词。 |
 
 ## 网站
