@@ -8,6 +8,7 @@
 | [GEO 实战手册](GEO实战手册/README.md) | | 写给企业主和运营的实操手册，覆盖事实卡、信源、官网、分平台要点和 90 天路线。 |
 | [GEO 内容生产与分发指南](GEO内容生产与分发指南/README.md) | | 说明用 AI 批量生成再软件分发为什么失效，以及选词、素材、生产和分发该怎么改。 |
 | [针对 Google 搜索中的生成式 AI 功能优化网站](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide?hl=zh-cn) | | Google 官方说明，讲如何让网站内容有机会出现在 AI 摘要、AI 模式等生成式搜索结果中。 |
+| [AI搜索入门手册](https://xiaobai.academy/free-ai-search-ebook/) | | 小白新势学院的免费手册，讲 GEO，以及如何让 ChatGPT 等 AI 搜索提到品牌。 |
 | [AI-SEO-GEO-Guide](https://github.com/Oden-a11y/AI-SEO-GEO-Guide) | 34 | 开源知识库，说明 AI 如何改变 SEO，以及生成式搜索下的 GEO 概念、策略和内容优化。 |
 | [geo-book](https://github.com/JingHao-Leon/geo-book) | 7 | 六大国产 AI 引擎实测写成的 GEO 中文实战手册。 |
 | [GEO 白皮书 2025](https://github.com/kingogie88/generative-engine-optimization-2025) | 6 | 生成式引擎优化白皮书，讨论从 SEO 转向 GEO 的做法、行业场景、衡量指标和后续判断。 |
@@ -63,6 +64,7 @@
 
 | 名&#8288;称&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp; | ★ | 说明 |
 | :--- | :--- | :--- |
+| [niubigeo](https://github.com/Albert-Weasker/niubigeo) | 10311 | 开源的 AI 品牌可见度与竞品报告工具，查看品牌在 AI 搜索中的表现，并衔接人工测试和 GEO 优化。 |
 | [GEOInflow](https://github.com/yaojingang/GEOInflow) | 847 | 可自托管的网站与 AI 爬虫分析工具，追踪 AI 搜索引荐、抓取日志、内容覆盖及转化。 |
 | [geo-aeo-tracker](https://github.com/danishashko/geo-aeo-tracker) | 328 | 可自托管的 AI 可见度监测工具，追踪品牌在 ChatGPT、Perplexity、Gemini 和 Google AI Mode 中的提及、排名、引用和情感，并提供仪表盘、MCP 和 CLI。 |
 | [geo_marketing](https://github.com/daijinma/geo_marketing) | 95 | GEO 搜索分析工具，支持 AI 回答采集、品牌曝光监测、引用溯源和声量占比分析，提供桌面客户端。 |
@@ -85,10 +87,13 @@
 | [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | 11705 | 以 GEO 为主的网站优化技能，面向 ChatGPT、Claude、Perplexity、Gemini 和 Google AI Overviews 的可引用性，并保留传统 SEO 基础。 |
 | [open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) | 10002 | 免费 SEO MCP 与 GEO 技能，用 Search Console、GA4 等自有数据做关键词、排名、审计、外链和 AI 可见度分析。 |
 | [notfair-plugin](https://github.com/nowork-studio/notfair-plugin) | 4204 | 面向 AI Agent 的 SEO、GEO 与营销技能插件，其中 GEO / AEO 技能改善内容在 ChatGPT、Perplexity、Gemini 等 AI 搜索中的引用和可见度。 |
+| [aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) | 3146 | 营销 Agent Skills 合集，覆盖叙事、SEO / GEO、社媒、邮件、投放、达人和发布。 |
 | [geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) | 1328 | 开源 GEO / AEO 审计引擎，评估 ChatGPT、Perplexity、Gemini、Claude 和 Google AI Overviews 能否抓取、理解并引用网站。 |
 | [yao-geo-skills](https://github.com/yaojingang/yao-geo-skills) | 920 | GEO 工作流 Skill 合集，覆盖战略诊断、页面技术、内容生产、知识资产、监测归因和拓词。 |
+| [unifapi-agent/agents](https://github.com/unifapi-agent/agents) | 618 | 开源营销代理插件，覆盖 SEO 审计、GEO 可见度、本地 SEO、社媒聆听和竞品情报。 |
 | [geo-doctor](https://github.com/Fangx-AI/geo-doctor) | 609 | 中英双语 GEO 助手 Skill，覆盖品牌问诊、可见度检查、事实资料整理、内容优化与复查。 |
 | [Seo-Promt-Master](https://github.com/umutxyp/Seo-Promt-Master) | 587 | 零依赖的 SEO / GEO 审计 CLI 与 Agent Skill，检查 robots、站点地图、规范链接、结构化数据和 AI 爬虫并给出修复。 |
+| [recomby-geo](https://github.com/ViryaZheng/recomby-geo) | 456 | GEO 方向的 AI 员工开源方案，包含 GEO Skills，以及配套的代理和办公 CLI 清单。 |
 | [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 248 | SEO / GEO Agent Skills 指引仓库，现行技能位于 aaron-marketing-skills，本仓库保留 v9.9.12 独立技能线。 |
 | [GEO-Content-Optimizer-Skill](https://github.com/liangdabiao/GEO-Content-Optimizer-Skill) | 240 | GEO 技能套件，提供单页体检、全流程引导和长期运营工作流。 |
 | [seo-skills](https://github.com/seranking/seo-skills) | 210 | 配合 SE Ranking MCP 的 Claude SEO 技能，覆盖内容简报、AI 搜索声量、站点审计、外链缺口和 GEO。 |
