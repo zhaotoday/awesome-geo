@@ -41,7 +41,7 @@
 
 ## 开源
 
-按项目 README 中的主要用途分类；同一分类内按 GitHub star 从高到低排列（截至 2026-11-15）。跨类别项目仅收录一次。仅收录 GitHub 仓库。
+按项目 README 中的主要用途分类；同一分类内按 GitHub star 从高到低排列（截至 2026-11-15；Skills 为 2026-11-16）。跨类别项目仅收录一次。仅收录 GitHub 仓库。
 
 ### 综合 GEO 平台
 
@@ -69,17 +69,32 @@
 | [GEOFlow](https://github.com/yaojingang/GEOFlow) | 4135 | GEO 内容工程与多站点分发平台，提供 AI 质检、托管站点和浏览器辅助发布等能力。 |
 | [ai-auto-publisher](https://github.com/yupeng0512/ai-auto-publisher) | 5 | 多平台内容发布中间件，提供 REST / MCP 接口、任务状态管理、去重重试及 API / Playwright 适配器。 |
 
-### GEO 诊断与内容优化 Skills
+### Skills
 
 | 名称 | ★ | 说明 |
 | --- | ---: | --- |
+| [claude-seo](https://github.com/AgriciDaniel/claude-seo) | 29727 | Claude Code 开源 SEO 审计插件，覆盖技术 SEO、结构化数据，以及面向 AI 搜索引用的 GEO。 |
+| [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | 11704 | 以 GEO 为主的网站优化技能，面向 ChatGPT、Claude、Perplexity、Gemini 和 Google AI Overviews 的可引用性，并保留传统 SEO 基础。 |
+| [open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) | 9998 | 免费 SEO MCP 与 GEO 技能，用 Search Console、GA4 等自有数据做关键词、排名、审计、外链和 AI 可见度分析。 |
+| [notfair-plugin](https://github.com/nowork-studio/notfair-plugin) | 4204 | 面向 AI Agent 的 SEO、GEO 与营销技能插件，其中 GEO / AEO 技能改善内容在 ChatGPT、Perplexity、Gemini 等 AI 搜索中的引用和可见度。 |
+| [geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) | 1328 | 开源 GEO / AEO 审计引擎，评估 ChatGPT、Perplexity、Gemini、Claude 和 Google AI Overviews 能否抓取、理解并引用网站。 |
+| [yao-geo-skills](https://github.com/yaojingang/yao-geo-skills) | 920 | GEO 工作流 Skill 合集，覆盖战略诊断、页面技术、内容生产、知识资产、监测归因和拓词。 |
 | [geo-doctor](https://github.com/Fangx-AI/geo-doctor) | 609 | 中英双语 GEO 助手 Skill，覆盖品牌问诊、可见度检查、事实资料整理、内容优化与复查。 |
+| [Seo-Promt-Master](https://github.com/umutxyp/Seo-Promt-Master) | 587 | 零依赖的 SEO / GEO 审计 CLI 与 Agent Skill，检查 robots、站点地图、规范链接、结构化数据和 AI 爬虫并给出修复。 |
+| [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 248 | SEO / GEO Agent Skills 指引仓库，现行技能位于 aaron-marketing-skills，本仓库保留 v9.9.12 独立技能线。 |
 | [GEO-Content-Optimizer-Skill](https://github.com/liangdabiao/GEO-Content-Optimizer-Skill) | 240 | GEO 技能套件，提供单页体检、全流程引导和长期运营工作流。 |
+| [seo-skills](https://github.com/seranking/seo-skills) | 210 | 配合 SE Ranking MCP 的 Claude SEO 技能，覆盖内容简报、AI 搜索声量、站点审计、外链缺口和 GEO。 |
+| [google-ai-search-optimization](https://github.com/deepakness/google-ai-search-optimization) | 141 | 依据 Google 对 AI Overviews、AI Mode 的搜索指南整理的非官方 Agent Skill，并包含 SEO 审计。 |
 | [HeiGe-GEO-SEO](https://github.com/HeiGeAi/HeiGe-GEO-SEO) | 95 | 中国市场优先的 GEO + SEO 内容优化系统，兼容 Claude Code、Codex、OpenClaw、Hermes 等工具。 |
 | [Wattter_openSkills](https://github.com/WaterDJiang/Wattter_openSkills) | 83 | 通用 Agent Skills 合集，其中包含 SEO / GEO 内容撰写、多平台 GEO 发布与自动发文技能。 |
 | [seo-geo-content-engine](https://github.com/dageno-agents/seo-geo-content-engine) | 64 | SEO / GEO 内容工作流 Skill，覆盖关键词研究、搜索结果分析、内容创作、元数据及 FAQ 结构化输出。 |
+| [ai-seo-audit](https://github.com/context-dot-dev/ai-seo-audit) | 46 | 免费的 AI SEO / GEO 站点审计工具。 |
+| [geo-audit-skill](https://github.com/zilisrikle/geo-audit-skill) | 36 | 面向 ChatGPT、Perplexity 和 Google AI Overviews 的可引用性审计技能，包含多角色代理和零依赖脚本。 |
+| [seo-geo-skills](https://github.com/iklynow-hue/seo-geo-skills) | 28 | 供 Codex 与 Claude Code 使用的 SEO / GEO 站点审计技能，支持限量爬取、按模板抽样，并用 Lighthouse 或 PageSpeed 生成双语 HTML 报告。 |
 | [kunpeng-geo](https://github.com/jwangkun/kunpeng-geo) | 20 | 四合一 GEO 技能，整合运营流程、内容诊断优化、内容创作与监控复盘。 |
+| [seo-geo-blog-writer](https://github.com/weipanux/seo-geo-blog-writer) | 16 | Claude 技能，撰写同时服务传统搜索排名和生成式 AI 引用的博客。 |
 | [china-geo-optimizer](https://github.com/esncy/china-geo-optimizer) | 15 | 面向 Kimi、豆包、DeepSeek、文心一言、通义千问等中国 AI 引擎的 GEO 内容优化技能。 |
+| [geo-skills](https://github.com/geoly-ai/geo-skills) | 14 | 面向 OpenClaw 的 GEO 技能套件，覆盖站点审计、llms.txt、结构化数据、内容优化和报告。 |
 | [geo-content-optimizer](https://github.com/wangzhuo-coding/geo-content-optimizer) | 8 | GEO 内容优化智能体，围绕关键词、内容架构、权威性与改写开展优化。 |
 
 ### Awesome
