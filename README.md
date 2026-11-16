@@ -73,6 +73,7 @@
 | [GeoLens](https://github.com/franksunye/GeoLens) | 5 | AI 引用检测与品牌可见性分析工具。 |
 | [ai-visibility-cn](https://github.com/smaapi/ai-visibility-cn) | 1 | 中文 AI 引擎品牌可见度命令行工具，用同一组问题询问 DeepSeek、Kimi、Perplexity 等，分别统计联网检索和模型记忆中的品牌提及率。 |
 | [CiteSnap](https://github.com/jeffersonme168/CiteSnap) | 1 | 从豆包、DeepSeek、Perplexity、千问、元宝、ChatGPT、文心等 AI 搜索回答中提取搜索词和引用链接。 |
+| [geo-collector](https://github.com/LongJingSU/geo-collector-DeepSeek-kimi-doubao) | 1 | 批量导入问题，采集豆包、DeepSeek、Kimi 回答里的信息源。 |
 
 ### 内容工程与多平台发布
 
@@ -100,6 +101,7 @@
 | [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 248 | SEO / GEO Agent Skills 指引仓库，现行技能位于 aaron-marketing-skills，本仓库保留 v9.9.12 独立技能线。 |
 | [GEO-Content-Optimizer-Skill](https://github.com/liangdabiao/GEO-Content-Optimizer-Skill) | 240 | GEO 技能套件，提供单页体检、全流程引导和长期运营工作流。 |
 | [seo-skills](https://github.com/seranking/seo-skills) | 210 | 配合 SE Ranking MCP 的 Claude SEO 技能，覆盖内容简报、AI 搜索声量、站点审计、外链缺口和 GEO。 |
+| [GEOHub](https://github.com/yaojingang/GEOHub) | 169 | GEO 优先的 Agent Skill 集，覆盖发现、诊断、内容、测量和策略，并带有可共用的 SEO 基础。 |
 | [google-ai-search-optimization](https://github.com/deepakness/google-ai-search-optimization) | 141 | 依据 Google 对 AI Overviews、AI Mode 的搜索指南整理的非官方 Agent Skill，并包含 SEO 审计。 |
 | [HeiGe-GEO-SEO](https://github.com/HeiGeAi/HeiGe-GEO-SEO) | 95 | 中国市场优先的 GEO + SEO 内容优化系统，兼容 Claude Code、Codex、OpenClaw、Hermes 等工具。 |
 | [Wattter_openSkills](https://github.com/WaterDJiang/Wattter_openSkills) | 83 | 通用 Agent Skills 合集，其中包含 SEO / GEO 内容撰写、多平台 GEO 发布与自动发文技能。 |
