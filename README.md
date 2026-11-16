@@ -7,7 +7,10 @@
 | [GEO 优化完整指南](GEO优化完整指南/README.md) | | 面向品牌、内容和增长团队的落地手册，从主体定档、问题词、监测、信源到官网优化和复盘。 |
 | [GEO 实战手册](GEO实战手册/README.md) | | 写给企业主和运营的实操手册，覆盖事实卡、信源、官网、分平台要点和 90 天路线。 |
 | [GEO 内容生产与分发指南](GEO内容生产与分发指南/README.md) | | 说明用 AI 批量生成再软件分发为什么失效，以及选词、素材、生产和分发该怎么改。 |
+| [针对 Google 搜索中的生成式 AI 功能优化网站](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide?hl=zh-cn) | | Google 官方说明，讲如何让网站内容有机会出现在 AI 摘要、AI 模式等生成式搜索结果中。 |
+| [AI-SEO-GEO-Guide](https://github.com/Oden-a11y/AI-SEO-GEO-Guide) | 34 | 开源知识库，说明 AI 如何改变 SEO，以及生成式搜索下的 GEO 概念、策略和内容优化。 |
 | [geo-book](https://github.com/JingHao-Leon/geo-book) | 7 | 六大国产 AI 引擎实测写成的 GEO 中文实战手册。 |
+| [GEO 白皮书 2025](https://github.com/kingogie88/generative-engine-optimization-2025) | 6 | 生成式引擎优化白皮书，讨论从 SEO 转向 GEO 的做法、行业场景、衡量指标和后续判断。 |
 | [cn-seo-geo-atlas](https://github.com/LLM-X-Factorer/cn-seo-geo-atlas) | 0 | 中文互联网 SEO 与 GEO 技术调研图谱，整理跨平台技术卡和可核验的研究判断。 |
 | [GEO 教程中心](https://www.georankhub.com/tutorial) | | GEORankHub 的教程汇总，覆盖 GEO 认知、AI 原理、内容优化、页面技术、策略执行、评估治理与案例。 |
 | [GEO 白皮书](https://yaojingang.feishu.cn/docx/Jv85dXAeZoKJ7exJi4Yc4Edrnhf) | | AI 搜索营销科普文档，说明生成式引擎优化如何让品牌被 AI 理解、引用和推荐。 |
@@ -15,6 +18,8 @@
 | [GEO 蓝皮书](https://yaojingang.feishu.cn/wiki/MwkiwPDqCiHGwVk2uOtcNUlrnnf) | | 企业与 GEO 服务商合作评估指南，覆盖立项、基线、比选、合同和验收。 |
 | [GEO 提示词合集](https://yaojingang.feishu.cn/wiki/YbMLwkChmiktbskRoHZcFixBnxb) | | GEO 书籍配套提示词，可按主题直接调用、改写和延伸。 |
 | [姚金刚提示词合集](https://yaojingang.feishu.cn/docx/ER4rdSlvcofCtQxttSac2Xc4nGd) | | 长期维护的提示词资料，覆盖写作、分析、整理和工作流等可复用提示词。 |
+| [SEO还没死，GEO之战已经开始](https://juejin.cn/post/7547051639740743721) | | 说明传统 SEO 仍在，生成式搜索已经开始改写品牌被看见的方式。 |
+| [关于GEO，看这一篇就够了](https://www.uweb.net.cn/zhishiku/jingyanfenxiang/26569.html) | | 优网知识库的 GEO 介绍。 |
 
 ## 网站
 
@@ -38,10 +43,11 @@
 | [NiubiGEO](https://niubigeo.ai/) | 产品 AI 可见度诊断服务，检查 ChatGPT、Claude、Gemini、Perplexity 如何理解、推荐和引用产品，并衔接人工测试与内容分发。 |
 | [引潮 GEO](https://www.ycseo.cn/) | GEO 优化服务，覆盖基线诊断、实体信息统一、结构化数据、内容资产、外部信源和效果复测。 |
 | [麦豆 GEO](https://maidouai.com/) | 免费 GEO 监测与优化平台，监测豆包、DeepSeek、千问、元宝、文心中的品牌可见度、情感和竞品，并给出优化建议。 |
+| [Varn](https://varn.co.uk/services/generative-engine-optimisation-geo-agency/) | GEO 与 SEO 服务机构，帮助品牌提高在 Google AI Overviews、AI Mode 和 ChatGPT 等 AI 搜索中的可见度。 |
 
 ## 开源
 
-按项目 README 中的主要用途分类；同一分类内按 GitHub star 从高到低排列（截至 2026-11-15；Skills 为 2026-11-16）。跨类别项目仅收录一次。仅收录 GitHub 仓库。
+按项目 README 中的主要用途分类；同一分类内按 GitHub star 从高到低排列（截至 2026-11-15；Skills 与本次新增为 2026-11-16）。跨类别项目仅收录一次。仅收录 GitHub 仓库。
 
 ### 综合 GEO 平台
 
@@ -58,6 +64,7 @@
 | 名称 | ★ | 说明 |
 | --- | ---: | --- |
 | [GEOInflow](https://github.com/yaojingang/GEOInflow) | 846 | 可自托管的网站与 AI 爬虫分析工具，追踪 AI 搜索引荐、抓取日志、内容覆盖及转化。 |
+| [geo-aeo-tracker](https://github.com/danishashko/geo-aeo-tracker) | 328 | 可自托管的 AI 可见度监测工具，追踪品牌在 ChatGPT、Perplexity、Gemini 和 Google AI Mode 中的提及、排名、引用和情感，并提供仪表盘、MCP 和 CLI。 |
 | [geo_marketing](https://github.com/daijinma/geo_marketing) | 95 | GEO 搜索分析工具，支持 AI 回答采集、品牌曝光监测、引用溯源和声量占比分析，提供桌面客户端。 |
 | [ai-geo-monitoring](https://github.com/lorin-code/ai-geo-monitoring) | 36 | 品牌 AI 搜索可见度监测系统，支持豆包、DeepSeek、Kimi、通义千问、腾讯元宝等平台的实时与定时监测。 |
 | [GeoLens](https://github.com/franksunye/GeoLens) | 5 | AI 引用检测与品牌可见性分析工具。 |
@@ -67,6 +74,7 @@
 | 名称 | ★ | 说明 |
 | --- | ---: | --- |
 | [GEOFlow](https://github.com/yaojingang/GEOFlow) | 4135 | GEO 内容工程与多站点分发平台，提供 AI 质检、托管站点和浏览器辅助发布等能力。 |
+| [geo-ai-agent](https://github.com/brightdata/geo-ai-agent) | 171 | CrewAI 网页审计流程，抓取页面、对照相关搜索和 Google AI Overviews，并输出页面级 GEO 优化建议。 |
 | [ai-auto-publisher](https://github.com/yupeng0512/ai-auto-publisher) | 5 | 多平台内容发布中间件，提供 REST / MCP 接口、任务状态管理、去重重试及 API / Playwright 适配器。 |
 
 ### Skills
@@ -102,6 +110,7 @@
 | 名称 | ★ | 说明 |
 | --- | ---: | --- |
 | [awesome-seo](https://github.com/i365dev/awesome-seo) | 2856 | SEO、GEO 与 AI 搜索资源精选，覆盖技术 SEO、智能体可发现性、分析与流量变现。 |
+| [awesome-generative-engine-optimization](https://github.com/amplifying-ai/awesome-generative-engine-optimization) | 542 | GEO 资料合集，汇总生成式引擎优化的指南、工具和研究，用来提高品牌在 AI 搜索中的可见度。 |
 | [luka2chat/awesome-geo](https://github.com/luka2chat/awesome-geo) | 131 | GEO 资源清单，汇总面向 AI 搜索的内容优化资料、工具与相关资源。 |
 | [awesome-seo-geo-skills](https://github.com/UnderleveledBuilder/awesome-seo-geo-skills) | 54 | SEO 与 GEO 技能包精选，覆盖关键词、内容、技术审计，以及让主流 AI 搜索引用内容的技能。 |
 | [awesome-geo-cn](https://github.com/LLM-X-Factorer/awesome-geo-cn) | 45 | 中文 GEO 资源列表，覆盖豆包、元宝、千问、文心、Kimi、DeepSeek 等中文 AI 搜索生态。 |
