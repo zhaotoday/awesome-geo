@@ -68,8 +68,11 @@
 | [GEOInflow](https://github.com/yaojingang/GEOInflow) | 847 | 可自托管的网站与 AI 爬虫分析工具，追踪 AI 搜索引荐、抓取日志、内容覆盖及转化。 |
 | [geo-aeo-tracker](https://github.com/danishashko/geo-aeo-tracker) | 328 | 可自托管的 AI 可见度监测工具，追踪品牌在 ChatGPT、Perplexity、Gemini 和 Google AI Mode 中的提及、排名、引用和情感，并提供仪表盘、MCP 和 CLI。 |
 | [geo_marketing](https://github.com/daijinma/geo_marketing) | 95 | GEO 搜索分析工具，支持 AI 回答采集、品牌曝光监测、引用溯源和声量占比分析，提供桌面客户端。 |
+| [GEOVisibilityTool](https://github.com/MasashiToda1/GEOVisibilityTool) | 50 | 模块化的 AI 品牌可见度测试工具，向 Kimi、豆包、DeepSeek、文心、千问、元宝发问并计算可见度分数。 |
 | [ai-geo-monitoring](https://github.com/lorin-code/ai-geo-monitoring) | 36 | 品牌 AI 搜索可见度监测系统，支持豆包、DeepSeek、Kimi、通义千问、腾讯元宝等平台的实时与定时监测。 |
 | [GeoLens](https://github.com/franksunye/GeoLens) | 5 | AI 引用检测与品牌可见性分析工具。 |
+| [ai-visibility-cn](https://github.com/smaapi/ai-visibility-cn) | 1 | 中文 AI 引擎品牌可见度命令行工具，用同一组问题询问 DeepSeek、Kimi、Perplexity 等，分别统计联网检索和模型记忆中的品牌提及率。 |
+| [CiteSnap](https://github.com/jeffersonme168/CiteSnap) | 1 | 从豆包、DeepSeek、Perplexity、千问、元宝、ChatGPT、文心等 AI 搜索回答中提取搜索词和引用链接。 |
 
 ### 内容工程与多平台发布
 
