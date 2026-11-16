@@ -2,7 +2,7 @@
 
 ## 学习资料
 
-| 名称 | ★ | 说明 |
+| 名称&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | ★&emsp;&emsp;&emsp; | 说明 |
 | --- | ---: | --- |
 | [GEO 优化完整指南](GEO优化完整指南/README.md) | | 面向品牌、内容和增长团队的落地手册，从主体定档、问题词、监测、信源到官网优化和复盘。 |
 | [GEO 实战手册](GEO实战手册/README.md) | | 写给企业主和运营的实操手册，覆盖事实卡、信源、官网、分平台要点和 90 天路线。 |
@@ -23,7 +23,7 @@
 
 ## 网站
 
-| 名称 | 说明 |
+| 名称&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 说明 |
 | --- | --- |
 | [GEOloopOS](https://geoloopos.com/) | AI 可见度基础设施，持续测量 AI 如何描述、引用和推荐品牌，并完成修正、分发与复核。 |
 | [GEOloop 商业白皮书](https://geoloopos.com/whitepaper/) | GEOloopOS 的 AI 可见度闭环方法论，涵盖实体认知、可见度评分与持续优化实验。 |
@@ -32,7 +32,7 @@
 
 ## GEO 服务
 
-| 名称 | 说明 |
+| 名称&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | 说明 |
 | --- | --- |
 | [飞柚 GEO](https://www.feiyougeo.cn/) | GEO 优化服务商，覆盖豆包、Kimi、DeepSeek、ChatGPT 等 AI 搜索的内容优化、技术部署与效果监测。 |
 | [搜搜果](https://www.sousougeo.com/) | GEO 监测平台，检测品牌在 DeepSeek、豆包、千问、元宝、文心等 AI 搜索中的可见度、排名与口碑，并生成分析报告。 |
@@ -51,7 +51,7 @@
 
 ### 综合 GEO 平台
 
-| 名称 | ★ | 说明 |
+| 名称&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | ★&emsp;&emsp;&emsp; | 说明 |
 | --- | ---: | --- |
 | [geolook](https://github.com/aigclink/geolook) | 818 | 开源端到端 GEO 实现，覆盖现状分析、诊断、策略、工单、执行与验证。 |
 | [GEORank](https://github.com/yaojingang/GEORank) | 539 | 开源 GEO 排名与生成式引擎优化平台。 |
@@ -61,7 +61,7 @@
 
 ### AI 可见度监测与流量分析
 
-| 名称 | ★ | 说明 |
+| 名称&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | ★&emsp;&emsp;&emsp; | 说明 |
 | --- | ---: | --- |
 | [GEOInflow](https://github.com/yaojingang/GEOInflow) | 846 | 可自托管的网站与 AI 爬虫分析工具，追踪 AI 搜索引荐、抓取日志、内容覆盖及转化。 |
 | [geo-aeo-tracker](https://github.com/danishashko/geo-aeo-tracker) | 328 | 可自托管的 AI 可见度监测工具，追踪品牌在 ChatGPT、Perplexity、Gemini 和 Google AI Mode 中的提及、排名、引用和情感，并提供仪表盘、MCP 和 CLI。 |
@@ -71,7 +71,7 @@
 
 ### 内容工程与多平台发布
 
-| 名称 | ★ | 说明 |
+| 名称&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | ★&emsp;&emsp;&emsp; | 说明 |
 | --- | ---: | --- |
 | [GEOFlow](https://github.com/yaojingang/GEOFlow) | 4135 | GEO 内容工程与多站点分发平台，提供 AI 质检、托管站点和浏览器辅助发布等能力。 |
 | [geo-ai-agent](https://github.com/brightdata/geo-ai-agent) | 171 | CrewAI 网页审计流程，抓取页面、对照相关搜索和 Google AI Overviews，并输出页面级 GEO 优化建议。 |
@@ -79,7 +79,7 @@
 
 ### Skills
 
-| 名称 | ★ | 说明 |
+| 名称&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | ★&emsp;&emsp;&emsp; | 说明 |
 | --- | ---: | --- |
 | [claude-seo](https://github.com/AgriciDaniel/claude-seo) | 29727 | Claude Code 开源 SEO 审计插件，覆盖技术 SEO、结构化数据，以及面向 AI 搜索引用的 GEO。 |
 | [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | 11704 | 以 GEO 为主的网站优化技能，面向 ChatGPT、Claude、Perplexity、Gemini 和 Google AI Overviews 的可引用性，并保留传统 SEO 基础。 |
@@ -107,7 +107,7 @@
 
 ### Awesome
 
-| 名称 | ★ | 说明 |
+| 名称&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | ★&emsp;&emsp;&emsp; | 说明 |
 | --- | ---: | --- |
 | [awesome-seo](https://github.com/i365dev/awesome-seo) | 2856 | SEO、GEO 与 AI 搜索资源精选，覆盖技术 SEO、智能体可发现性、分析与流量变现。 |
 | [awesome-generative-engine-optimization](https://github.com/amplifying-ai/awesome-generative-engine-optimization) | 542 | GEO 资料合集，汇总生成式引擎优化的指南、工具和研究，用来提高品牌在 AI 搜索中的可见度。 |
