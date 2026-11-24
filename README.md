@@ -25,6 +25,7 @@
 | [关于GEO，看这一篇就够了](https://www.uweb.net.cn/zhishiku/jingyanfenxiang/26569.html) | | 优网知识库的 GEO 介绍。 |
 | [GEO 知识库](https://www.wowagent.top/pages/geo-book/) | | 中文 GEO 实践教程，讲如何让 ChatGPT、Gemini、Perplexity、豆包、DeepSeek 等 AI 搜索引用内容和提及品牌。 |
 | [GEOLab 资料库](https://yaojingang.github.io/GEOLab/) | | 可直接阅读的 GEO 研究资料库，汇总论文、数据集、实验报告和白皮书。 |
+| [GEO 论文学习地图](https://yaojingang.github.io/GEOLab/02-papers/interactive-guides/) | | 121 篇 GEO 论文白板课，按检索底座、方法测量和风险边界组织，可离线学习并保存进度。 |
 | [CN-GEO 多维分析报告](https://yaojingang.github.io/GEOLab/03-datasets/reports/final/CN-GEO_%E5%A4%9A%E7%BB%B4%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.html) | | 从平台、问题、信源、页面和内容特征看国内 AI 引用生态。 |
 | [GEO 在线能力测试](https://ai.laoyao.cn/geo/) | | 面向入门的 30 题测试，依据 GEO 研究和国内引用数据检查对生成式引擎优化的理解。 |
 
