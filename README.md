@@ -9,6 +9,7 @@
 | [GEO 内容生产与分发指南](GEO内容生产与分发指南/README.md) | | 说明用 AI 批量生成再软件分发为什么失效，以及选词、素材、生产和分发该怎么改。 |
 | [针对 Google 搜索中的生成式 AI 功能优化网站](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide?hl=zh-cn) | | Google 官方说明，讲如何让网站内容有机会出现在 AI 摘要、AI 模式等生成式搜索结果中。 |
 | [AI搜索入门手册](https://xiaobai.academy/free-ai-search-ebook/) | | 小白新势学院的免费手册，讲 GEO，以及如何让 ChatGPT 等 AI 搜索提到品牌。 |
+| [GEOLab](https://github.com/yaojingang/GEOLab) | 804 | GEO 研究资料仓库，整理论文、数据集、实验报告和白皮书，包含国内 AI 引用数据。 |
 | [AI-SEO-GEO-Guide](https://github.com/Oden-a11y/AI-SEO-GEO-Guide) | 34 | 开源知识库，说明 AI 如何改变 SEO，以及生成式搜索下的 GEO 概念、策略和内容优化。 |
 | [geo-book](https://github.com/JingHao-Leon/geo-book) | 7 | 六大国产 AI 引擎实测写成的 GEO 中文实战手册。 |
 | [GEO 白皮书 2025](https://github.com/kingogie88/generative-engine-optimization-2025) | 6 | 生成式引擎优化白皮书，讨论从 SEO 转向 GEO 的做法、行业场景、衡量指标和后续判断。 |
@@ -23,6 +24,9 @@
 | [SEO还没死，GEO之战已经开始](https://juejin.cn/post/7547051639740743721) | | 说明传统 SEO 仍在，生成式搜索已经开始改写品牌被看见的方式。 |
 | [关于GEO，看这一篇就够了](https://www.uweb.net.cn/zhishiku/jingyanfenxiang/26569.html) | | 优网知识库的 GEO 介绍。 |
 | [GEO 知识库](https://www.wowagent.top/pages/geo-book/) | | 中文 GEO 实践教程，讲如何让 ChatGPT、Gemini、Perplexity、豆包、DeepSeek 等 AI 搜索引用内容和提及品牌。 |
+| [GEOLab 资料库](https://yaojingang.github.io/GEOLab/) | | 可直接阅读的 GEO 研究资料库，汇总论文、数据集、实验报告和白皮书。 |
+| [CN-GEO 多维分析报告](https://yaojingang.github.io/GEOLab/03-datasets/reports/final/CN-GEO_%E5%A4%9A%E7%BB%B4%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.html) | | 从平台、问题、信源、页面和内容特征看国内 AI 引用生态。 |
+| [GEO 在线能力测试](https://ai.laoyao.cn/geo/) | | 面向入门的 30 题测试，依据 GEO 研究和国内引用数据检查对生成式引擎优化的理解。 |
 
 ## 网站
 
