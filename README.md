@@ -115,6 +115,7 @@
 | [seo-skills](https://github.com/seranking/seo-skills) | 213 | 配合 SE Ranking MCP 的 Claude SEO 技能，覆盖内容简报、AI 搜索声量、站点审计、外链缺口和 GEO。 |
 | [GEOHub](https://github.com/yaojingang/GEOHub) | 170 | GEO 优先的 Agent Skill 集，覆盖发现、诊断、内容、测量和策略，并带有可共用的 SEO 基础。 |
 | [google-ai-search-optimization](https://github.com/deepakness/google-ai-search-optimization) | 144 | 依据 Google 对 AI Overviews、AI Mode 的搜索指南整理的非官方 Agent Skill，并包含 SEO 审计。 |
+| [AGI-Super-Team](https://github.com/aAAaqwq/AGI-Super-Team) | 121 | 可安装的跨框架 Agent 与 Skills 团队，其中包含 GEO 内容优化、SEO/GEO 审计和内容撰写技能。 |
 | [HeiGe-GEO-SEO](https://github.com/HeiGeAi/HeiGe-GEO-SEO) | 102 | 中国市场优先的 GEO + SEO 内容优化系统，兼容 Claude Code、Codex、OpenClaw、Hermes 等工具。 |
 | [Wattter_openSkills](https://github.com/WaterDJiang/Wattter_openSkills) | 90 | 通用 Agent Skills 合集，其中包含 SEO / GEO 内容撰写、多平台 GEO 发布与自动发文技能。 |
 | [seo-geo-content-engine](https://github.com/dageno-agents/seo-geo-content-engine) | 64 | SEO / GEO 内容工作流 Skill，覆盖关键词研究、搜索结果分析、内容创作、元数据及 FAQ 结构化输出。 |
