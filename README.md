@@ -22,6 +22,7 @@
 | [摸鱼知识库](https://hcn1icjty5uk.feishu.cn/wiki/Mw4aw6JdzigmyZklO1lcGROFnlE) | | 咸鱼哥整理的免费资料库，目录包含获客引流、GEO 优化、工具和私域运营。 |
 | [SEO还没死，GEO之战已经开始](https://juejin.cn/post/7547051639740743721) | | 说明传统 SEO 仍在，生成式搜索已经开始改写品牌被看见的方式。 |
 | [关于GEO，看这一篇就够了](https://www.uweb.net.cn/zhishiku/jingyanfenxiang/26569.html) | | 优网知识库的 GEO 介绍。 |
+| [GEO 知识库](https://www.wowagent.top/pages/geo-book/) | | 中文 GEO 实践教程，讲如何让 ChatGPT、Gemini、Perplexity、豆包、DeepSeek 等 AI 搜索引用内容和提及品牌。 |
 
 ## 网站
 
@@ -60,13 +61,14 @@
 | [deepseek-geo](https://github.com/DeepSeekGEO/deepseek-geo) | 131 | 超算 GEO 品牌监控与优化管理平台，覆盖 AI 搜索曝光监测、违规检测、内容生成和多平台发布。 |
 | [gitgeo](https://github.com/xxxbozzz/gitgeo) | 34 | 面向个人 GEO 推广的工作流引擎，整合内容生成、质量检查、多平台发布与 AI 可见性探测。 |
 | [geo-saa](https://github.com/wch887292/geo-saa) | 6 | 全域 GEO 平台，覆盖品牌诊断、知识库、AI 内容创作、多渠道分发和数据监测。 |
+| [geokit](https://github.com/WilstonZhou/geokit) | 2 | 面向中文市场的开源 SEO / GEO 系统，覆盖搜索引擎采集、GEO 评分、AI 可见性、llms.txt 与 MCP。 |
 
 ### AI 可见度监测与流量分析
 
 | 名&#8288;称&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp; | ★ | 说明 |
 | :--- | :--- | :--- |
 | [niubigeo](https://github.com/Albert-Weasker/niubigeo) | 10311 | 开源的 AI 品牌可见度与竞品报告工具，查看品牌在 AI 搜索中的表现，并衔接人工测试和 GEO 优化。 |
-| [GEOInflow](https://github.com/yaojingang/GEOInflow) | 847 | 可自托管的网站与 AI 爬虫分析工具，追踪 AI 搜索引荐、抓取日志、内容覆盖及转化。 |
+| [GEOInflow](https://github.com/yaojingang/GEOInflow) | 867 | 可自托管的网站与 AI 爬虫分析工具，追踪 AI 搜索引荐、抓取日志、内容覆盖及转化。 |
 | [geo-aeo-tracker](https://github.com/danishashko/geo-aeo-tracker) | 328 | 可自托管的 AI 可见度监测工具，追踪品牌在 ChatGPT、Perplexity、Gemini 和 Google AI Mode 中的提及、排名、引用和情感，并提供仪表盘、MCP 和 CLI。 |
 | [geo_marketing](https://github.com/daijinma/geo_marketing) | 95 | GEO 搜索分析工具，支持 AI 回答采集、品牌曝光监测、引用溯源和声量占比分析，提供桌面客户端。 |
 | [GEOVisibilityTool](https://github.com/MasashiToda1/GEOVisibilityTool) | 50 | 模块化的 AI 品牌可见度测试工具，向 Kimi、豆包、DeepSeek、文心、千问、元宝发问并计算可见度分数。 |
@@ -75,6 +77,7 @@
 | [ai-visibility-cn](https://github.com/smaapi/ai-visibility-cn) | 1 | 中文 AI 引擎品牌可见度命令行工具，用同一组问题询问 DeepSeek、Kimi、Perplexity 等，分别统计联网检索和模型记忆中的品牌提及率。 |
 | [CiteSnap](https://github.com/jeffersonme168/CiteSnap) | 1 | 从豆包、DeepSeek、Perplexity、千问、元宝、ChatGPT、文心等 AI 搜索回答中提取搜索词和引用链接。 |
 | [geo-collector](https://github.com/LongJingSU/geo-collector-DeepSeek-kimi-doubao) | 1 | 批量导入问题，采集豆包、DeepSeek、Kimi 回答里的信息源。 |
+| [dsh-geo-analyzer](https://github.com/liangdabiao/dsh-geo-analyzer) | 1 | GEO 品牌雷达插件，用同一组问题询问豆包、Kimi、DeepSeek、元宝、千问和百度，分析提及率、排名、情绪、信源和竞品。 |
 
 ### 内容工程与多平台发布
 
@@ -101,10 +104,11 @@
 | [recomby-geo](https://github.com/ViryaZheng/recomby-geo) | 459 | GEO 方向的 AI 员工开源方案，包含 GEO Skills，以及配套的代理和办公 CLI 清单。 |
 | [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 248 | SEO / GEO Agent Skills 指引仓库，现行技能位于 aaron-marketing-skills，本仓库保留 v9.9.12 独立技能线。 |
 | [GEO-Content-Optimizer-Skill](https://github.com/liangdabiao/GEO-Content-Optimizer-Skill) | 242 | GEO 技能套件，提供单页体检、全流程引导和长期运营工作流。 |
+| [eGEOagents](https://github.com/mverab/eGEOagents) | 222 | 开源 GEO / AEO 工具包，用 CLI、Claude Code 和 MCP 优化内容在 ChatGPT、Perplexity、Gemini、Claude 中的可见度。 |
 | [seo-skills](https://github.com/seranking/seo-skills) | 210 | 配合 SE Ranking MCP 的 Claude SEO 技能，覆盖内容简报、AI 搜索声量、站点审计、外链缺口和 GEO。 |
 | [GEOHub](https://github.com/yaojingang/GEOHub) | 169 | GEO 优先的 Agent Skill 集，覆盖发现、诊断、内容、测量和策略，并带有可共用的 SEO 基础。 |
 | [google-ai-search-optimization](https://github.com/deepakness/google-ai-search-optimization) | 141 | 依据 Google 对 AI Overviews、AI Mode 的搜索指南整理的非官方 Agent Skill，并包含 SEO 审计。 |
-| [HeiGe-GEO-SEO](https://github.com/HeiGeAi/HeiGe-GEO-SEO) | 95 | 中国市场优先的 GEO + SEO 内容优化系统，兼容 Claude Code、Codex、OpenClaw、Hermes 等工具。 |
+| [HeiGe-GEO-SEO](https://github.com/HeiGeAi/HeiGe-GEO-SEO) | 102 | 中国市场优先的 GEO + SEO 内容优化系统，兼容 Claude Code、Codex、OpenClaw、Hermes 等工具。 |
 | [Wattter_openSkills](https://github.com/WaterDJiang/Wattter_openSkills) | 83 | 通用 Agent Skills 合集，其中包含 SEO / GEO 内容撰写、多平台 GEO 发布与自动发文技能。 |
 | [seo-geo-content-engine](https://github.com/dageno-agents/seo-geo-content-engine) | 64 | SEO / GEO 内容工作流 Skill，覆盖关键词研究、搜索结果分析、内容创作、元数据及 FAQ 结构化输出。 |
 | [ai-seo-audit](https://github.com/context-dot-dev/ai-seo-audit) | 46 | 免费的 AI SEO / GEO 站点审计工具。 |
@@ -115,6 +119,8 @@
 | [china-geo-optimizer](https://github.com/esncy/china-geo-optimizer) | 15 | 面向 Kimi、豆包、DeepSeek、文心一言、通义千问等中国 AI 引擎的 GEO 内容优化技能。 |
 | [geo-skills](https://github.com/geoly-ai/geo-skills) | 14 | 面向 OpenClaw 的 GEO 技能套件，覆盖站点审计、llms.txt、结构化数据、内容优化和报告。 |
 | [geo-content-optimizer](https://github.com/wangzhuo-coding/geo-content-optimizer) | 8 | GEO 内容优化智能体，围绕关键词、内容架构、权威性与改写开展优化。 |
+| [doubao-geo-skills](https://github.com/hexing-ai/doubao-geo-skills) | 2 | 面向中文内容运营、本地商家和 B2B 团队的豆包 GEO 技能包，覆盖客户诊断、关键词、写稿、多平台改写和监测复盘。 |
+| [dsh-geo-optimizer](https://github.com/liangdabiao/dsh-geo-optimizer) | 1 | GEO 工具箱插件，用三个技能让 ChatGPT、豆包、Perplexity、文心一言等 AI 在回答中提到品牌。 |
 
 ### Awesome
 
@@ -126,3 +132,4 @@
 | [awesome-seo-geo-skills](https://github.com/UnderleveledBuilder/awesome-seo-geo-skills) | 54 | SEO 与 GEO 技能包精选，覆盖关键词、内容、技术审计，以及让主流 AI 搜索引用内容的技能。 |
 | [awesome-geo-cn](https://github.com/LLM-X-Factorer/awesome-geo-cn) | 45 | 中文 GEO 资源列表，覆盖豆包、元宝、千问、文心、Kimi、DeepSeek 等中文 AI 搜索生态。 |
 | [tentenco/awesome-geo](https://github.com/tentenco/awesome-geo) | 35 | GEO 与 AI SEO 资料合集，汇总让品牌被 ChatGPT、Gemini 等 AI 发现的方法与资源。 |
+| [GEO-Resources](https://github.com/zhouzhupianbei/GEO-Resources) | 7 | GEO 资料库，汇总大模型搜索优化相关资料。 |
