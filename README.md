@@ -52,6 +52,7 @@
 | [引潮 GEO](https://www.ycseo.cn/) | GEO 优化服务，覆盖基线诊断、实体信息统一、结构化数据、内容资产、外部信源和效果复测。 |
 | [麦豆 GEO](https://maidouai.com/) | 免费 GEO 监测与优化平台，监测豆包、DeepSeek、千问、元宝、文心中的品牌可见度、情感和竞品，并给出优化建议。 |
 | [Varn](https://varn.co.uk/services/generative-engine-optimisation-geo-agency/) | GEO 与 SEO 服务机构，帮助品牌提高在 Google AI Overviews、AI Mode 和 ChatGPT 等 AI 搜索中的可见度。 |
+| [GEO 工作台](https://geo.zjgeotech.com/login) | 登录后可做品牌与官网诊断、排名和竞品透视、口碑与引用分析，以及文章创作和网站媒体、自媒体发布。 |
 
 ## 开源
 
@@ -88,6 +89,7 @@
 
 | 名&#8288;称&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp;&#8288;&emsp; | ★ | 说明 |
 | :--- | :--- | :--- |
+| [Wechatsync](https://github.com/wechatsync/Wechatsync) | 6672 | 一键把文章同步到头条、知乎、简书、掘金、CSDN、WordPress 等平台，可用于分发 GEO 文章。 |
 | [GEOFlow](https://github.com/yaojingang/GEOFlow) | 4192 | GEO 内容工程与多站点分发平台，提供 AI 质检、托管站点和浏览器辅助发布等能力。 |
 | [geo-ai-agent](https://github.com/brightdata/geo-ai-agent) | 170 | CrewAI 网页审计流程，抓取页面、对照相关搜索和 Google AI Overviews，并输出页面级 GEO 优化建议。 |
 | [ai-auto-publisher](https://github.com/yupeng0512/ai-auto-publisher) | 5 | 多平台内容发布中间件，提供 REST / MCP 接口、任务状态管理、去重重试及 API / Playwright 适配器。 |
@@ -124,6 +126,7 @@
 | [china-geo-optimizer](https://github.com/esncy/china-geo-optimizer) | 15 | 面向 Kimi、豆包、DeepSeek、文心一言、通义千问等中国 AI 引擎的 GEO 内容优化技能。 |
 | [geo-skills](https://github.com/geoly-ai/geo-skills) | 14 | 面向 OpenClaw 的 GEO 技能套件，覆盖站点审计、llms.txt、结构化数据、内容优化和报告。 |
 | [geo-content-optimizer](https://github.com/wangzhuo-coding/geo-content-optimizer) | 8 | GEO 内容优化智能体，围绕关键词、内容架构、权威性与改写开展优化。 |
+| [Chinese-Geo](https://github.com/qingqingpi/Chinese-Geo) | 7 | 面向国内 AI 引擎的 GEO 工具，用 CLI 和 Agent Skill 让站点被豆包、DeepSeek、文心、通义、元宝、Kimi 抓取和引用。 |
 | [doubao-geo-skills](https://github.com/hexing-ai/doubao-geo-skills) | 2 | 面向中文内容运营、本地商家和 B2B 团队的豆包 GEO 技能包，覆盖客户诊断、关键词、写稿、多平台改写和监测复盘。 |
 | [dsh-geo-optimizer](https://github.com/liangdabiao/dsh-geo-optimizer) | 1 | GEO 工具箱插件，用三个技能让 ChatGPT、豆包、Perplexity、文心一言等 AI 在回答中提到品牌。 |
 
