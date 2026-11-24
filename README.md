@@ -19,6 +19,7 @@
 | [GEO 蓝皮书](https://yaojingang.feishu.cn/wiki/MwkiwPDqCiHGwVk2uOtcNUlrnnf) | | 企业与 GEO 服务商合作评估指南，覆盖立项、基线、比选、合同和验收。 |
 | [GEO 提示词合集](https://yaojingang.feishu.cn/wiki/YbMLwkChmiktbskRoHZcFixBnxb) | | GEO 书籍配套提示词，可按主题直接调用、改写和延伸。 |
 | [姚金刚提示词合集](https://yaojingang.feishu.cn/docx/ER4rdSlvcofCtQxttSac2Xc4nGd) | | 长期维护的提示词资料，覆盖写作、分析、整理和工作流等可复用提示词。 |
+| [摸鱼知识库](https://hcn1icjty5uk.feishu.cn/wiki/Mw4aw6JdzigmyZklO1lcGROFnlE) | | 咸鱼哥整理的免费资料库，目录包含获客引流、GEO 优化、工具和私域运营。 |
 | [SEO还没死，GEO之战已经开始](https://juejin.cn/post/7547051639740743721) | | 说明传统 SEO 仍在，生成式搜索已经开始改写品牌被看见的方式。 |
 | [关于GEO，看这一篇就够了](https://www.uweb.net.cn/zhishiku/jingyanfenxiang/26569.html) | | 优网知识库的 GEO 介绍。 |
 
@@ -97,9 +98,9 @@
 | [unifapi-agent/agents](https://github.com/unifapi-agent/agents) | 618 | 开源营销代理插件，覆盖 SEO 审计、GEO 可见度、本地 SEO、社媒聆听和竞品情报。 |
 | [geo-doctor](https://github.com/Fangx-AI/geo-doctor) | 609 | 中英双语 GEO 助手 Skill，覆盖品牌问诊、可见度检查、事实资料整理、内容优化与复查。 |
 | [Seo-Promt-Master](https://github.com/umutxyp/Seo-Promt-Master) | 587 | 零依赖的 SEO / GEO 审计 CLI 与 Agent Skill，检查 robots、站点地图、规范链接、结构化数据和 AI 爬虫并给出修复。 |
-| [recomby-geo](https://github.com/ViryaZheng/recomby-geo) | 456 | GEO 方向的 AI 员工开源方案，包含 GEO Skills，以及配套的代理和办公 CLI 清单。 |
+| [recomby-geo](https://github.com/ViryaZheng/recomby-geo) | 459 | GEO 方向的 AI 员工开源方案，包含 GEO Skills，以及配套的代理和办公 CLI 清单。 |
 | [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 248 | SEO / GEO Agent Skills 指引仓库，现行技能位于 aaron-marketing-skills，本仓库保留 v9.9.12 独立技能线。 |
-| [GEO-Content-Optimizer-Skill](https://github.com/liangdabiao/GEO-Content-Optimizer-Skill) | 240 | GEO 技能套件，提供单页体检、全流程引导和长期运营工作流。 |
+| [GEO-Content-Optimizer-Skill](https://github.com/liangdabiao/GEO-Content-Optimizer-Skill) | 242 | GEO 技能套件，提供单页体检、全流程引导和长期运营工作流。 |
 | [seo-skills](https://github.com/seranking/seo-skills) | 210 | 配合 SE Ranking MCP 的 Claude SEO 技能，覆盖内容简报、AI 搜索声量、站点审计、外链缺口和 GEO。 |
 | [GEOHub](https://github.com/yaojingang/GEOHub) | 169 | GEO 优先的 Agent Skill 集，覆盖发现、诊断、内容、测量和策略，并带有可共用的 SEO 基础。 |
 | [google-ai-search-optimization](https://github.com/deepakness/google-ai-search-optimization) | 141 | 依据 Google 对 AI Overviews、AI Mode 的搜索指南整理的非官方 Agent Skill，并包含 SEO 审计。 |
